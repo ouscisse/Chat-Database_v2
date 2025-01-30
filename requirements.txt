@@ -1,0 +1,11 @@
+langchain_google_genai==2.0.9
+langchain_openai==0.3.3
+openai==1.60.2
+pandas==2.2.3
+pandasai==2.4.2
+phi==0.6.7
+Pillow==11.1.0
+protobuf==5.29.3
+python-dotenv==1.0.1
+streamlit==1.41.1
+streamlit_pills==0.3.0
