@@ -1,4 +1,4 @@
-pip==25.0
+pip>=25.0
 langchain_google_genai==2.0.9
 langchain_openai==0.3.3
 openai==1.60.2
